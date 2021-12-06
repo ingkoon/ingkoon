@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 -->
 
 
-<h2>Orlando's Tech Stack</h2>
+<h2>Tech Stack</h2>
 <p>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>
@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 </p>
 </br>
 
-<h2>Orlando's Stats</h2>
+<h2>Stats</h2>
 
 ![본인ID's github stats](https://github-readme-stats.vercel.app/api?username=ingkoon&show_icons=true)
 
