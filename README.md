@@ -1,7 +1,10 @@
 ###  Hello I'm Orlando👋
 <p>
+  
 [![Instagram Badge](https://img.shields.io/badge/Instagram-ff69b4?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/orland5_2/)](https://www.instagram.com/orland5_2/)
+  
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dlswotmd@gmail.com)](mailto:dlswotmd@gmail.com)
+  
 </p>
 ---
 - 일단 개발자를 꿈꿉니다.
