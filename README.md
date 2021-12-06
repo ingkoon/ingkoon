@@ -1,4 +1,5 @@
 ###  Hello I'm Orlando👋
+[![Instagram Badge](https://img.shields.io/badge/Instagram-ff69b4?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/orland5_2/)](https://www.instagram.com/orland5_2/)
 ---
 - 일단 개발자를 꿈꿉니다.
 - 아마 백엔드 개발자를 지향할 가능성이 높습니다.
@@ -22,15 +23,16 @@ Here are some ideas to get you started:
 -->
 
 
-<h2>Tech Stack</h2>
+<h2>Orlando's Tech Stack</h2>
+<p>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
-
+</p>
 </br>
 
-<h2>Stats</h2>
+<h2>Orlando's Stats</h2>
 
 ![본인ID's github stats](https://github-readme-stats.vercel.app/api?username=ingkoon&show_icons=true)
 
