@@ -5,7 +5,7 @@
 - 관심있는건 다해보는 편입니다.
 - 무직입니다.
 
-</br>
+
 <!--
 **ingkoon/ingkoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
