@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 -->
 
 
-### Tech Stack
+<h2>Tech Stack</h2>
 ---
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>
@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 </br>
 
-### My Status
+<h2>Stats</h2>
 ---
 ![본인ID's github stats](https://github-readme-stats.vercel.app/api?username=ingkoon&show_icons=true)
 
