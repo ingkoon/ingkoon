@@ -7,8 +7,6 @@
 </p>
 
 ---
-- 개발자 할거임
-
 
 <!--
 **ingkoon/ingkoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
