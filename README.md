@@ -1,8 +1,11 @@
 ###  Hello I'm Orlando👋
+
 <p>
-  
-  2020.11 ~ 2021.04 GDSC SCH 2th Core Member
-  2022.03 ~ 2022.06 UPF2022SS
+2020.11 ~ 2021.04 GDSC SCH 2th Core Member <br>
+2022.03 ~ 2022.06 UPF2022SS
+</p>
+
+<p>
   
 [![Instagram Badge](https://img.shields.io/badge/Instagram-ff69b4?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/orland5_2/)](https://www.instagram.com/orland5_2/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dlswotmd@gmail.com)](mailto:dlswotmd@gmail.com)
