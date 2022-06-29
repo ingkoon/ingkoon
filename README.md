@@ -3,7 +3,7 @@
 <p>
 2020.11 ~ 2021.04 GDSC SCH 2th Core Member <br>
 2022.03 ~ 2022.06 UPF2022SS <br>
-2022.06 ~         ssafy
+2022.06 ~         ssafy 8th
 </p>
 
 <p>
