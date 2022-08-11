@@ -35,6 +35,6 @@ Here are some ideas to get you started:
 
 ![본인ID's github stats](https://github-readme-stats.vercel.app/api?username=ingkoon&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
-[![본인ID's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ingkoon&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/ingkoon)
+[![본인ID's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ingkoon&show_icons=true&hide_border=true&title_color=fff&icon_color=79ff97&layout=compact&bg_color=151515)](https://github.com/ingkoon)
 
-<a href="https://opgc.me/#/users/ingkoon" target="_blank"><img src="https://api.opgc.me/githubs/users/ingkoon/tag/?theme=basic" /></a>
+<a href="https://opgc.me/#/users/ingkoon" target="_blank"><img src="https://api.opgc.me/githubs/users/ingkoon/tag/?theme=dracula" /></a>
