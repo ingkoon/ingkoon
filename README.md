@@ -1,4 +1,4 @@
-###  Hello I'm survival expert BE Orlando⚡⚡
+###  Hello I'm survival expert BE Orlando⚡
 
 <p>
 2020.11 ~ 2021.04 GDSC SCH 2th Core Member <br>
