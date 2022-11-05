@@ -1,5 +1,7 @@
 ###  💬Hello I'm survival expert BE Orlando
 
+<div align="center"><img width=100 height=100 src="https://github.githubassets.com/images/mona-loading-default.gif" /></div>
+
 #### 🌱 I’m currently learning
 <p>
 2020.11 ~ 2021.04 GDSC SCH 2th Core Member <br>
@@ -15,7 +17,6 @@
   
 </p>
 
----
 
 <!--
 **ingkoon/ingkoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -32,10 +33,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2>Status</h2>
 
-![본인ID's github stats](https://github-readme-stats.vercel.app/api?username=ingkoon&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
-[![본인ID's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ingkoon&show_icons=true&hide_border=true&title_color=fff&icon_color=79ff97&layout=compact&bg_color=151515)](https://github.com/ingkoon)
-
-<a href="https://opgc.me/#/users/ingkoon" target="_blank"><img src="https://api.opgc.me/githubs/users/ingkoon/tag/?theme=dracula" /></a>
