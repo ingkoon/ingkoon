@@ -1,4 +1,4 @@
-###  💬오늘도 제 코드가 살아남길 
+###  💬오늘도 제 코드가 살아남길 바랍니다
 
 <div align="center"><img width=100 height=100 src="https://github.githubassets.com/images/mona-loading-default.gif" /></div>
 
