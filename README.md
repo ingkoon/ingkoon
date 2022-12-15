@@ -7,7 +7,6 @@
 2020.11 ~ 2021.04 GDSC SCH 2th Core Member <br>
 2022.03 ~ 2022.06 UPF2022SS <br>
 2022.07 ~ 2022.12 SSAFY 8th 1st Semester <br>
-
 </p>
 
 <div>
