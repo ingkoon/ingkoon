@@ -10,11 +10,11 @@
 
 </p>
 
-<div>
+<!-- <div>
   
   [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlswotmd)](https://solved.ac/dlswotmd)
   
-</div>
+</div> -->
   
 
 <p>
