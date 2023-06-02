@@ -19,8 +19,9 @@
 
 <p>
   
-[![Instagram Badge](https://img.shields.io/badge/Instagram-ff69b4?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/orland5_2/)](https://www.instagram.com/orland5_2/)[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dlswotmd@gmail.com)](mailto:dlswotmd@gmail.com)
-  
+[![Instagram Badge](https://img.shields.io/badge/Instagram-ff69b4?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/orland5_2/)](https://www.instagram.com/orland5_2/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dlswotmd@gmail.com)](mailto:dlswotmd@gmail.com)
+[![Notion Badge](https://img.shields.io/badge/notion-ffffff?style=flat-square&logo=Notion&logoColor=black&link=https://orland5.notion.site/)](https://orland5.notion.site/)
 </p>
 
 
