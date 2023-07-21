@@ -1,10 +1,7 @@
-###  💬오늘도 제 코드가 살아남길 바랍니다
-
-<div align="center"><img width=100 height=100 src="https://github.githubassets.com/images/mona-loading-default.gif" /></div>
 
 #### 🌱 I’m currently learning
 <p>
-2022.07 ~ 2022.12 SSAFY 8th 1st Semester <br>
+2022.07 ~ 2023.07 삼성 청년 SW 아카데미 8th <br>
 2022.03 ~ 2022.06 UPF2022SS team464<br>
 2020.11 ~ 2021.04 GDSC SCH 2th Core Member <br>
 
