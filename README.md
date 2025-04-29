@@ -1,5 +1,5 @@
 
-#### 🌱 Personnal Experience
+#### 🌱 Personal Experience
 <p>
 2024.05 ~ ing 웨딩북 제품본부 Backend Manager <br>
 2022.07 ~ 2023.07 삼성 청년 SW 아카데미 8th <br>
