@@ -1,7 +1,7 @@
 
 #### 🌱 Personal Experience
 <p>
-2024.05 ~ ing 웨딩북 제품본부 Backend Manager <br>
+2024.05 ~ 2026.01 웨딩북 제품본부 Backend Engineer <br>
 2022.07 ~ 2023.07 삼성 청년 SW 아카데미 8th <br>
 2022.03 ~ 2022.06 UPF2022SS team464<br>
 2020.11 ~ 2021.04 GDSC SCH 2th Core Member <br>
